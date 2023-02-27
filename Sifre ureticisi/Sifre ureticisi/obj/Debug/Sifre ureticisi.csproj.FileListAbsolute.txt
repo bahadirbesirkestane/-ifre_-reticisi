@@ -1,0 +1,11 @@
+C:\Users\O M E N\source\repos\Sifre ureticisi\Sifre ureticisi\bin\Debug\Sifre ureticisi.exe.config
+C:\Users\O M E N\source\repos\Sifre ureticisi\Sifre ureticisi\bin\Debug\Sifre ureticisi.exe
+C:\Users\O M E N\source\repos\Sifre ureticisi\Sifre ureticisi\bin\Debug\Sifre ureticisi.pdb
+C:\Users\O M E N\source\repos\Sifre ureticisi\Sifre ureticisi\obj\Debug\Sifre ureticisi.csproj.AssemblyReference.cache
+C:\Users\O M E N\source\repos\Sifre ureticisi\Sifre ureticisi\obj\Debug\Sifre_ureticisi.Form1.resources
+C:\Users\O M E N\source\repos\Sifre ureticisi\Sifre ureticisi\obj\Debug\Sifre_ureticisi.Properties.Resources.resources
+C:\Users\O M E N\source\repos\Sifre ureticisi\Sifre ureticisi\obj\Debug\Sifre ureticisi.csproj.GenerateResource.cache
+C:\Users\O M E N\source\repos\Sifre ureticisi\Sifre ureticisi\obj\Debug\Sifre ureticisi.csproj.CoreCompileInputs.cache
+C:\Users\O M E N\source\repos\Sifre ureticisi\Sifre ureticisi\obj\Debug\Sifre ureticisi.exe
+C:\Users\O M E N\source\repos\Sifre ureticisi\Sifre ureticisi\obj\Debug\Sifre ureticisi.pdb
+C:\Users\O M E N\source\repos\Sifre ureticisi\Sifre ureticisi\obj\Debug\Sifre ureticisi.csproj.SuggestedBindingRedirects.cache
